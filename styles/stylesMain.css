@@ -1,0 +1,29 @@
+#logos{
+    font-size: 40px;
+}
+#image{
+    padding: 10px;
+
+}
+#grades{
+    padding-top: 30px;
+}
+#educationText{
+   color: #000;
+}
+#personalLetter{
+    color: indianred;
+    font-style: oblique;
+    font-size: 20px;
+}
+.nav-link{
+    font-style: oblique;
+    font-size: 20px;
+}
+.navbar-brand{
+    padding-left: 15px;
+    font-style: oblique;
+    font-size: 25px;
+}
+
+
